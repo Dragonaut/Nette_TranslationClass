@@ -1,0 +1,1 @@
+This is for study purpose. Im creating Translation class for my projects in Nette PHP Framework.
